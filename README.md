@@ -1,27 +1,15 @@
-# DashBoardLayoutUiComponents
+# Designing an Angular Dashboard Layout with UI Components
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
+A quick-start Angular project that contains code to add UI components to the Angular Dashboard Layout and arrange panels using the cell spacing property. This project also contains code to customize the look of the dashboard using the CSS class property, floating panels and the responsive and adaptive layouts functionality of the dashboard.
 
-## Development server
+Refer to the following documentation to learn about the Angular Dashboard Layout component: 
+https://ej2.syncfusion.com/angular/documentation/dashboard-layout/getting-started
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Check out this online example of the Angular Dashboard Layout component:
+https://ej2.syncfusion.com/angular/demos/#/bootstrap5/dashboard-layout/default   
 
-## Code scaffolding
+## Project prerequisites
+Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## How to run this application
+To run this application, you need to first clone the `designing-an-angular-dashboard-layout-with-ui-components` repository and then open it in Visual Studio Code. Now, simply build and run your project using `ng serve` command to view the output.
